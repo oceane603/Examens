@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+}
+h2 {
+    color: rgb(81, 81, 85);
+    text-align: left;
+    margin: 10px 0;
+    /* text-transform: uppercase; */
+}
+h1 {
+    color: rgb(13, 13, 17);
+    text-align: left;
+    /* margin: 10px 0; */
+    /* background-color: rebeccapurple; */
+    /* padding: 20px 20px; */
+    /* border: 1px solid black; */
+    /* border-right: 2px; */
+    /* border-color: red; */
+}
+
+
+input[type="text"] {
+    width: 90%;
+    /* box-sizing: border-box; */
+}
+input[type="number"] {
+    width: 90%;
+    /* box-sizing: border-box; */
+}
+
+input[type="text"] {
+    padding: 15px 15px;
+    margin-bottom: 5px;
+    border: none;
+    background-color: rgba(214, 205, 205, .5);
+}
+input[type="number"] {
+    padding: 15px 15px;
+    margin-bottom: 5px;
+    border: none;
+    background-color: rgba(214, 205, 205, .5);
+}
+
+input[type="submit"] {
+    padding: 10px 15px;
+    /* margin-bottom: 5px; */
+    /* border: none; */
+    background-color: rgb(18, 182, 12);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: 9px;
+    width: 25%;
+    margin: 50px 80px;
+}
+
+.main {
+    background-color: rgb(236, 234, 229);
+    /* height: vh; */
+    width: 650px;
+    padding: 5px 15px;
+}
+.compte h2{ 
+    padding: 10px;
+    /* padding: 5px 1   5px; */
+    background-color: rgb(211, 206, 206);
+    text-align: right;
+    /* margin-top: -500px ; */
+    color: rgb(20, 17, 17);
+    width: 650px;
+
+    /* width: 667px; */
+    /* margin-left: 680px; */
+    /* height: 94vh; */
+}
